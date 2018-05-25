@@ -6,7 +6,7 @@
 // @author       Mike "yo1dog" Moore
 // @match        http://orteil.dashnet.org/cookieclicker/*
 // @grant        none
-// @icon         http://orteil.dashnet.org/cookieclicker/img/favicon.ico
+// @icon         https://raw.githubusercontent.com/yo1dog/cookie-clicker-helper/master/icon.ico
 // @run-at       document-idle
 // ==/UserScript==
 
