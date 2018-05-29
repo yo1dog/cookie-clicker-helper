@@ -44,7 +44,7 @@ function createDialogElem() {
   const template = document.createElement('template');
   template.innerHTML = `
     <div>
-      <ol id="cookieHelperObjectList" style="display: fixed; bottom: 0; left: 0; z-index: 9999; background-color: #FFF; color: #000; padding: 10px;"></ol>
+      <ol id="cookieHelperObjectList" style="position: fixed; bottom: 32pt; left: 0; z-index: 9999; background-color: #FFF; color: #000; padding: 10px;"></ol>
     </div>
   `.trim();
   
